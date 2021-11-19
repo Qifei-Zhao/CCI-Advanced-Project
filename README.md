@@ -1,5 +1,5 @@
 # CCI-Advanced-Project
-* CCI Final Project
+* UAL-CCI MRs Advanced Project
 * Hand Tracking&amp;Gesture Recognition AR APP
 * Application Build by Qifei Zhao
 ## Application Introduction
